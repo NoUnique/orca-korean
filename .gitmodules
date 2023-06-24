@@ -1,0 +1,15 @@
+[submodule "eval/AGIEval"]
+	path = eval/AGIEval
+	url = git@github.com:microsoft/AGIEval.git
+[submodule "eval/BIG-Bench-Hard"]
+	path = eval/BIG-Bench-Hard
+	url = git@github.com:suzgunmirac/BIG-Bench-Hard.git
+[submodule "eval/WizardLM"]
+	path = eval/WizardLM
+	url = git@github.com:nlpxucan/WizardLM.git
+[submodule "eval/FastChat"]
+	path = eval/FastChat
+	url = git@github.com:lm-sys/FastChat.git
+[submodule "eval/awesome-chatgpt-prompts"]
+	path = eval/awesome-chatgpt-prompts
+	url = git@github.com:f/awesome-chatgpt-prompts.git
