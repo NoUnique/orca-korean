@@ -13,3 +13,6 @@
 [submodule "eval/awesome-chatgpt-prompts"]
 	path = eval/awesome-chatgpt-prompts
 	url = git@github.com:f/awesome-chatgpt-prompts.git
+[submodule "data/FLAN"]
+	path = data/FLAN
+	url = git@github.com:google-research/FLAN.git
